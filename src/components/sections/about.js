@@ -173,9 +173,9 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me1.jpeg"
-              // src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png"
-              width={500}
+              // src="../../images/meCoding.jpg"
+              src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png"
+              width={400}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"

@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m a self taught software engineer specializing in building exceptional digital
-        experiences. Currently, I’m focused on building cool{' '}
+        experiences. Currently, I’m focused on improving my skills by building cool{' '}
         <a href="https://github.com/MahendraBishnoi29" target="_blank" rel="noreferrer">
           Projects
         </a>{' '}
@@ -78,11 +78,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="./resume.pdf" target="_blank" rel="noreferrer">
       Resume{' '}
       <span role="img" aria-label="resume">
         📜

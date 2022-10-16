@@ -3,7 +3,7 @@ date: '3'
 title: 'House Marketplace'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/house-marketplace'
-external: ''
+external: 'https://house-marketplace-iota-lyart.vercel.app/'
 tech:
   - React
   - Firebase

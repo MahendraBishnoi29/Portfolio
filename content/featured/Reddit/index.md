@@ -3,7 +3,7 @@ date: '2'
 title: 'Reddit 2.0'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/reddit-2.0'
-external: ''
+external: 'https://reddit-swart-pi.vercel.app'
 tech:
   - React
   - Firebase

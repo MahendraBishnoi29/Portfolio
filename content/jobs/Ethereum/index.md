@@ -3,10 +3,10 @@ date: '2022-09-12'
 title: 'Contributor'
 company: 'Ethereum Organization'
 location: 'London, UK'
-range: 'September - Present 2022'
+range: 'September 2022 - Present'
 url: 'https://ethereum.org/en/'
 ---
 
-- Contribute to Ethereum Organization's officail Site.
+- Contributed to Ethereum Organization's official Site.
 - Refactored There 3+ Components With Chakra UI.
 - Helped Other Fellow Contributors for their Queries and Issues.

@@ -5,7 +5,7 @@
   mahendra bishnoi - portfolio
 </h1>
 <p align="center">
-  forked from <a href="https://brittanychiang.com" target="_blank"></a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  forked from <a href="https://brittanychiang.com" target="_blank">https://github.com/bchiang7/v4</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iterations:

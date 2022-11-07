@@ -64,7 +64,7 @@ const Contact = () => {
         question or just want to say hi, I’ll try my best to get back to you!
       </p>
       {/* `mailto:${email}` */}
-      <a className="email-link" href="https://discord.gg/7SFcm4vgeU">
+      <a className="email-link" href="https://discord.gg/jTyKD5ZGB8">
         Say Hello
       </a>
     </StyledContactSection>

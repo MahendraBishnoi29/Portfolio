@@ -64,12 +64,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a self taught software engineer specializing in building exceptional digital
+        I’m a software engineer specializing in building exceptional digital
         experiences. Currently, I’m focused on improving my skills by building cool{' '}
         <a href="https://github.com/MahendraBishnoi29" target="_blank" rel="noreferrer">
           Projects
         </a>{' '}
-        &{' '}
+        &{' '}doing{' '}
         <a href="https://github.com/MahendraBishnoi29" target="_blank" rel="noreferrer">
           Open Source
         </a>

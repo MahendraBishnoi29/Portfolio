@@ -1,9 +1,9 @@
 ---
-date: '1'
+date: '3'
 title: 'Mern Movie Rating'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/MERN-movie-review-app'
-external: ''
+external: 'https://mrp-frontend.onrender.com/'
 tech:
   - React
   - Express.js

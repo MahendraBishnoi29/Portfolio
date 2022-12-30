@@ -64,14 +64,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building exceptional digital
-        experiences. Currently, I’m focused on improving my skills by building cool{' '}
+        I’m a software engineer specializing in building exceptional digital experiences. Currently,
+        I’m focused on improving my skills by building high-quality Web Applications. Check out my{' '}
         <a href="https://github.com/MahendraBishnoi29" target="_blank" rel="noreferrer">
           Projects
         </a>{' '}
-        &{' '}doing{' '}
+        &{' '}
         <a href="https://github.com/MahendraBishnoi29" target="_blank" rel="noreferrer">
-          Open Source
+          Open Source Work
         </a>
         .
       </p>

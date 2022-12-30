@@ -3,7 +3,7 @@ date: '2'
 title: 'G-Chat'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/chat-app'
-external: 'g-chat-firebase.netlify.app'
+external: 'https://g-chat-firebase.netlify.app'
 tech:
   - React
   - Firebase

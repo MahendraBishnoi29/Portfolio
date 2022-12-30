@@ -3,7 +3,7 @@ date: '1'
 title: 'MoonFlix'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/moonflix'
-external: 'moonflix-1wld.vercel.app/'
+external: 'https://moonflix-1wld.vercel.app/'
 tech:
   - React
   - Express.js

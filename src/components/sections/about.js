@@ -141,7 +141,7 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’m building cool projects & maintaining others projects by
+              Fast-forward to today, and I’m building FullStack projects & trying maintaining others projects by
               doing Open Source. I love working with open source softwares, communities, currently
               I'm involved in{' '}
               <a

@@ -6,6 +6,7 @@ github: 'https://github.com/MahendraBishnoi29/reddit-2.0'
 external: 'https://reddit-swart-pi.vercel.app'
 tech:
   - React
+  - TypeScript
   - Firebase
   - Charka UI
 ---

@@ -71,7 +71,7 @@ const Hero = () => {
         </a>{' '}
         &{' '}
         <a href="https://github.com/MahendraBishnoi29" target="_blank" rel="noreferrer">
-          Open Source Work
+          Work
         </a>
         .
       </p>

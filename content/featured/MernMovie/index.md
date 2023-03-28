@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Mern Movie Rating'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/MERN-movie-review-app'

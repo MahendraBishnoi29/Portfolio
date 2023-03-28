@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'G-Chat'
 cover: './demo.png'
 github: 'https://github.com/MahendraBishnoi29/chat-app'

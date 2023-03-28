@@ -141,9 +141,9 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’m building FullStack projects & trying maintaining others projects by
-              doing Open Source. I love working with open source softwares, communities, currently
-              I'm involved in{' '}
+              Fast-forward to today, and I’m building FullStack projects & trying maintaining others
+              projects by doing Open Source. I love working with open source softwares, communities,
+              currently I'm involved in{' '}
               <a
                 className="email-link"
                 href="https://ethereum.org/en/contributing/#contributors"
@@ -174,7 +174,7 @@ const About = () => {
             <StaticImage
               className="img"
               // src="../../images/meCoding.jpg"
-              src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png"
+              src="https://user-images.githubusercontent.com/74294202/228130647-2c52a57f-4286-4a23-9d80-7e45f387bcb4.jpg"
               width={400}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

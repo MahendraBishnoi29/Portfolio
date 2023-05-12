@@ -5,7 +5,7 @@ module.exports = {
     title: 'Mahendra | Software Engineer',
     description:
       'Mahenrdra Bishnoi is a software engineer who specializes in building exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://portfolio-nine-sage-66.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@0xbrowncoder',
   },

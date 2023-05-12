@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import styled from 'styled-components';
-import { srConfig } from '@config';
+import { srConfig, email } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -63,8 +63,8 @@ const Contact = () => {
         Currently I’m looking for any new opportunities, my inbox is always open. Whether you have a
         question or just want to say hi, I’ll try my best to get back to you!
       </p>
-      {/* `mailto:${email}` */}
-      <a className="email-link" href="https://discord.gg/jTyKD5ZGB8">
+
+      <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>
     </StyledContactSection>
